@@ -1,6 +1,8 @@
 Connect4
 ===========
 
+![Screen shot.](jpsember.github.com/repository/img/screenshot.jpg)
+
 Connect4 is a Java applet that I wrote years ago.  It appears here as an Eclipse project.
 
 Loading the page "src/Connect4.html" within a browser should (maybe) start the program.
