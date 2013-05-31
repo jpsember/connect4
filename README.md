@@ -1,7 +1,8 @@
 Connect4
 ===========
 
-![Screen shot.](jpsember.github.com/connect4/img/screenshot.jpg)
+
+![Screen shot.](img/screenshot.jpg)
 
 Connect4 is a Java applet that I wrote years ago.  It appears here as an Eclipse project.
 
